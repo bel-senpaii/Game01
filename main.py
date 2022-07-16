@@ -1,4 +1,4 @@
-
+include characters.py
 
 print ("\tWelcome to PyRPG!") #title
 
